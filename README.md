@@ -1,5 +1,6 @@
 # KurwaCoin
 “When words fail, KURWA pays“
+
 In the chaotic digital age where emotions are unfiltered and reactions are raw, one word rules them all — KURWA. A Polish expression that fits every mood — anger, shock, joy, despair, or surprise — it’s become an international meme and a cultural symbol of human emotion overload.
 
 But what if you could pay or earn every time you feel a “KURWA moment”?
@@ -16,6 +17,7 @@ Send $KURWA to a friend instead of rage texting.
 Tip $KURWA in memes and comment threads.
 
 🧾 Web3 Utility:
+
 	•	Micro-tipping system on Reddit, X (Twitter), Discord
 	•	Integrated with trader dashboards to auto-send “KURWA!” every time a liquidation hits
 	•	“EmotiPay” DApp: lets users pay bills or send donations using preset emotion triggers
@@ -34,6 +36,9 @@ Tax
 0%
 Distribution
 100% to liquidity
+
+
+
 •	“Kurwa of the Day” contest: best meme wins $KURWA
 	•	“KURWA Reactions” Telegram bot
 	•	“KURWA in 100 Languages” meme series
